@@ -1,0 +1,4 @@
+-Copy the folder arm64-v8a under /Assets/Mapbox/Plugins/Android/libs/ (so you have /Assets/Mapbox/Plugins/Android/libs/arm64-v8a/)
+-This folder contains libsqlite3.so
+-Select this in Unity and in the inspector update the import settings. Platform: Android, CPU: ARM64
+-Click Apply
